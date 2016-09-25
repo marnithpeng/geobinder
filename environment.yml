@@ -1,0 +1,15 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.5.2
+- numpy
+- matplotlib
+- scipy
+- jupyter
+- sympy
+- obspy
+- pip:
+  - tqdm
+  - namedlist
+  - bruges
+  - welly
