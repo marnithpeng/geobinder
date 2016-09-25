@@ -11,5 +11,5 @@ dependencies:
 - pip:
   - tqdm
   - namedlist
+  - lasio
   - bruges
-  - welly
