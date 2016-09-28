@@ -12,4 +12,5 @@ dependencies:
   - tqdm
   - namedlist
   - lasio
+  - welly
   - bruges
